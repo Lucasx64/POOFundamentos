@@ -1,0 +1,15 @@
+C:\Users\84289112587\Desktop\POO - Fundamentos\bin\Debug\net10.0\POO - Fundamentos.exe
+C:\Users\84289112587\Desktop\POO - Fundamentos\bin\Debug\net10.0\POO - Fundamentos.deps.json
+C:\Users\84289112587\Desktop\POO - Fundamentos\bin\Debug\net10.0\POO - Fundamentos.runtimeconfig.json
+C:\Users\84289112587\Desktop\POO - Fundamentos\bin\Debug\net10.0\POO - Fundamentos.dll
+C:\Users\84289112587\Desktop\POO - Fundamentos\bin\Debug\net10.0\POO - Fundamentos.pdb
+C:\Users\84289112587\Desktop\POO - Fundamentos\obj\Debug\net10.0\POO - Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84289112587\Desktop\POO - Fundamentos\obj\Debug\net10.0\POO - Fundamentos.AssemblyInfoInputs.cache
+C:\Users\84289112587\Desktop\POO - Fundamentos\obj\Debug\net10.0\POO - Fundamentos.AssemblyInfo.cs
+C:\Users\84289112587\Desktop\POO - Fundamentos\obj\Debug\net10.0\POO - Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\84289112587\Desktop\POO - Fundamentos\obj\Debug\net10.0\POO - Fundamentos.dll
+C:\Users\84289112587\Desktop\POO - Fundamentos\obj\Debug\net10.0\refint\POO - Fundamentos.dll
+C:\Users\84289112587\Desktop\POO - Fundamentos\obj\Debug\net10.0\POO - Fundamentos.pdb
+C:\Users\84289112587\Desktop\POO - Fundamentos\obj\Debug\net10.0\POO - Fundamentos.genruntimeconfig.cache
+C:\Users\84289112587\Desktop\POO - Fundamentos\obj\Debug\net10.0\ref\POO - Fundamentos.dll
+C:\Users\84289112587\Desktop\POO - Fundamentos\obj\Debug\net10.0\POO - Fu.C02D5B87.Up2Date
