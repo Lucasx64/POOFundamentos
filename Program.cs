@@ -73,40 +73,66 @@ using POO___Fundamentos;
 
 // 1.
 
-Pessoa Pessoa1 = new Pessoa();
+//Pessoa Pessoa1 = new Pessoa();
 
-Pessoa1.Nome = "Ana";
-Pessoa1.Idade = 25;
+//Pessoa1.Nome = "Ana";
+//Pessoa1.Idade = 25;
 
-Pessoa Pessoa2 = new Pessoa();
+//Pessoa Pessoa2 = new Pessoa();
 
-Pessoa2.Nome = "Bruno";
-Pessoa2.Idade = 31;
+//Pessoa2.Nome = "Bruno";
+//Pessoa2.Idade = 31;
 
-Pessoa1.Apresentar();
-Pessoa2.Apresentar();
+//Pessoa1.Apresentar();
+//Pessoa2.Apresentar();
 
-// 2.
+//// 2.
 
-Retangulo Retangulo1 = new Retangulo();
+//Retangulo Retangulo1 = new Retangulo();
 
-Retangulo1.Largura = 5;
-Retangulo1.Altura = 3;
+//Retangulo1.Largura = 5;
+//Retangulo1.Altura = 3;
 
-Console.WriteLine($"Área: {Retangulo1.CalcularArea()}");
-Console.WriteLine($"Perímetro: {Retangulo1.CalcularPerimetro()}");
+//Console.WriteLine($"Área: {Retangulo1.CalcularArea()}");
+//Console.WriteLine($"Perímetro: {Retangulo1.CalcularPerimetro()}");
 
 
-// 3.
+//// 3.
 
-Lampada MinhaLampada = new Lampada();
+//Lampada MinhaLampada = new Lampada();
 
-MinhaLampada.ExibirEstado();
-MinhaLampada.Ligar();
-MinhaLampada.ExibirEstado();
-MinhaLampada.Desligar();
-MinhaLampada.ExibirEstado();
+//MinhaLampada.ExibirEstado();
+//MinhaLampada.Ligar();
+//MinhaLampada.ExibirEstado();
+//MinhaLampada.Desligar();
+//MinhaLampada.ExibirEstado();
 
 
 // 4.
+
+//ContaBancaria conta = new ContaBancaria("Lucas", 0.0);
+
+//conta.Depositar(500);
+//conta.Sacar(200);
+//conta.Sacar(1000);
+//conta.ExibirSaldo();
+
+
+
+// Lista 2
+
+// 1.
+
+Pessoa ana = new Pessoa();
+
+ana.Nome = "Ana";
+
+ana.Cumprimentar();
+ana.CumprimentarAlguem("Bruno");
+
+string frase = ana.ObterApresentacao();
+Console.WriteLine(frase);
+
+
+// 2.
 

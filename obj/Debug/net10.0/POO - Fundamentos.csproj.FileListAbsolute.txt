@@ -13,3 +13,4 @@ C:\Users\84289112587\Desktop\POO - Fundamentos\obj\Debug\net10.0\POO - Fundament
 C:\Users\84289112587\Desktop\POO - Fundamentos\obj\Debug\net10.0\POO - Fundamentos.genruntimeconfig.cache
 C:\Users\84289112587\Desktop\POO - Fundamentos\obj\Debug\net10.0\ref\POO - Fundamentos.dll
 C:\Users\84289112587\Desktop\POO - Fundamentos\obj\Debug\net10.0\POO - Fu.C02D5B87.Up2Date
+C:\Users\84289112587\Desktop\POO - Fundamentos\obj\Debug\net10.0\POO - Fundamentos.sourcelink.json
