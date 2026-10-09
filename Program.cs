@@ -123,16 +123,30 @@ using POO___Fundamentos;
 
 // 1.
 
-Pessoa ana = new Pessoa();
+//Pessoa ana = new Pessoa();
 
-ana.Nome = "Ana";
+//ana.Nome = "Ana";
 
-ana.Cumprimentar();
-ana.CumprimentarAlguem("Bruno");
+//ana.Cumprimentar();
+//ana.CumprimentarAlguem("Bruno");
 
-string frase = ana.ObterApresentacao();
-Console.WriteLine(frase);
+//string frase = ana.ObterApresentacao();
+//Console.WriteLine(frase);
 
 
 // 2.
+
+//Calculadora calc = new Calculadora();
+
+//int soma = calc.Somar(10, 5);
+//calc.MostrarResultado(soma);
+
+//calc.MostrarResultado(calc.Subtrair(10, 5));
+
+
+// 3.
+
+
+
+
 

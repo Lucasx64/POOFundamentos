@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POO - Fundamentos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a9f9a7633329c6beddd7d786fe91861a3f4c9a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30e350efe651632c970f5dd29ff6147636246ee5")]
 [assembly: System.Reflection.AssemblyProductAttribute("POO - Fundamentos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POO - Fundamentos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
